@@ -65,7 +65,7 @@ setup(
     long_description=readme,
     long_description_content_type="text/markdown",
     url="https://github.com/quantumblacklabs/causalnex",
-    python_requires=">=3.8, <=3.11",
+    python_requires=">=3.8, <=3.12",
     author="QuantumBlack Labs",
     author_email="causalnex@quantumblack.com",
     packages=find_packages(exclude=["docs*", "tests*", "tools*"]),
@@ -79,6 +79,7 @@ setup(
         "Programming Language :: Python :: 3.9",
         "Programming Language :: Python :: 3.10",
 	    "Programming Language :: Python :: 3.11",
+        "Programming Language :: Python :: 3.12",
     ],
     extras_require=extras_require,
 )
