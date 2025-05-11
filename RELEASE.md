@@ -1,7 +1,4 @@
 # Upcoming release
-# Release 0.12.1
-* Unlocking cap on following requirements: networkx, pathos, torch and wrapt
-
 # Release 0.12.0
 * Switch to Pyvis for graph visualisation and remove dependency on Graphviz
 
@@ -147,7 +144,7 @@ This work was later turned into a product thanks to the following contributors:
 , [Zain Patel](https://www.linkedin.com/in/zain-patel/)
 , [Wesley Leong](https://www.linkedin.com/in/wesleyleong/)
 , [Yetunde Dada](https://github.com/yetudada)
-, [Viktoriia Oliinyk](https://www.linkedin.com/in/viktoriiaoliinyk/)
+, [Viktoriia Oliinyk](https://www.linkedin.com/in/victoria-oleynik/)
 , [Roxana Pamfil](https://www.linkedin.com/in/roxana-pamfil-1192053b/)
 , [Nisara Sriwattanaworachai](https://www.linkedin.com/in/nisara-sriwattanaworachai-795b357/)
 , [Nikolaos Tsaousis](https://www.linkedin.com/in/ntsaousis/)
